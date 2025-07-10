@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supply Chain Optimization</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            margin-top: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #007bff;
+        }
+        table {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Supply Chain Optimization</h1>
+        <p>Enter the number of locations and their distances to optimize the supply chain network.</p>
+        
+        <div class="mb-3">
+            <label for="locations" class="form-label">Number of Locations:</label>
+            <input type="number" id="locations" class="form-control" min="2" value="4">
+        </div>
+        
+        <button class="btn btn-primary mb-3" onclick="generateMatrix()">Generate Matrix</button>
+        
+        <div id="matrixInput"></div>
+        <button class="btn btn-success mt-3" onclick="calculateOptimization()">Optimize</button>
+
+        <div id="results" class="mt-5">
+            <table>
+                <tr>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        function floydWarshall(graph) {
+            const n = graph.length;
+            const dist = JSON.parse(JSON.stringify(graph)); // Deep copy of the graph
+            const next = Array.from({ length: n }, () => Array(n).fill(null));
+
+            // Initialize next matrix
+            for (let i = 0; i < n; i++) {
+                for (let j = 0; j < n; j++) {
+                    if (graph[i][j] !== Infinity && i !== j) next[i][j] = j;
+                }
+            }
+
+            // Floyd-Warshall algorithm
+            for (let k = 0; k < n; k++) {
+                for (let i = 0; i < n; i++) {
+                    for (let j = 0; j < n; j++) {
+                        if (dist[i][k] + dist[k][j] < dist[i][j]) {
+                            dist[i][j] = dist[i][k] + dist[k][j];
+                            next[i][j] = next[i][k];
+                        }
+                    }
+                }
+            }
+            return { dist, next };
+        }
+
+        function getPath(next, u, v) {
+            if (next[u][v] === null) return [];
+            const path = [u];
+            while (u !== v) {
+                u = next[u][v];
+                path.push(u);
+            }
+            return path;
+        }
+
+        function displayResults(dist, next, locations) {
+            let resultText = '<h3>Optimized Paths</h3>';
+            resultText += '<table class="table table-bordered"><thead><tr><th>From</th><th>To</th><th>Path</th><th>Distance</th></tr></thead><tbody>';
+
+            for (let i = 0; i < dist.length; i++) {
+                for (let j = 0; j < dist.length; j++) {
+                    if (i !== j) {
+                        const path = getPath(next, i, j).map(index => locations[index]).join(' ➔ ');
+                        resultText += `<tr><td>${locations[i]}</td><td>${locations[j]}</td><td>${path}</td><td>${dist[i][j]}</td></tr>`;
+                    }
+                }
+            }
+
+            resultText += '</tbody></table>';
+            document.getElementById('results').innerHTML = resultText;
+        }
+
+        function generateMatrix() {
+            const numLocations = parseInt(document.getElementById('locations').value);
+            const matrixInputDiv = document.getElementById('matrixInput');
+            matrixInputDiv.innerHTML = '';
+
+            let html = '<table class="table table-bordered">';
+            html += '<thead><tr><th></th>';
+
+            for (let i = 0; i < numLocations; i++) {
+                html += `<th>Location ${i + 1}</th>`;
+            }
+
+            html += '</tr></thead><tbody>';
+
+            for (let i = 0; i < numLocations; i++) {
+                html += `<tr><th>Location ${i + 1}</th>`;
+                for (let j = 0; j < numLocations; j++) {
+                    if (i === j) {
+                        html += `<td><input type="text" class="form-control" value="0" readonly></td>`;
+                    } else {
+                        html += `<td><input type="number" class="form-control" id="cell-${i}-${j}" value="Infinity"></td>`;
+                    }
+                }
+                html += '</tr>';
+            }
+
+            html += '</tbody></table>';
+            matrixInputDiv.innerHTML = html;
+        }
+
+        function calculateOptimization() {
+            const numLocations = parseInt(document.getElementById('locations').value);
+            const graph = [];
+            const locations = [];
+
+            for (let i = 0; i < numLocations; i++) {
+                const row = [];
+                for (let j = 0; j < numLocations; j++) {
+                    const value = document.getElementById(`cell-${i}-${j}`).value;
+                    row.push(value === "Infinity" ? Infinity : parseInt(value));
+                }
+                graph.push(row);
+                locations.push(`Location ${i + 1}`);
+            }
+
+            const { dist, next } = floydWarshall(graph);
+            displayResults(dist, next, locations);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+// Fake Detection System Architecture
+digraph {
+	rankdir=TB size=10
+	Image [label="Image
+(Input)" shape=box]
+	CSV [label="Csv/Excel
+(Input)" shape=box]
+	Camera [label="Camera
+(Input)" shape=box]
+	Dataset [label=Dataset shape=ellipse]
+	ColorCode [label="Color Code Binary" shape=diamond]
+	Model [label=Model shape=ellipse]
+	Convert [label=Convert shape=diamond]
+	BinaryCode [label="Binary Code" shape=box]
+	Match [label=Match shape=diamond]
+	Prediction [label="Prediction
+(Output)" shape=ellipse]
+	Real [label="IF Result > 0.5
+Real" shape=box]
+	Fake [label="ELSE Result ≤ 0.5
+Fake" shape=box]
+	Image -> Dataset
+	CSV -> Dataset
+	Dataset -> ColorCode
+	ColorCode -> Model
+	Camera -> Convert
+	Convert -> BinaryCode
+	Model -> Match
+	BinaryCode -> Match
+	Match -> Prediction
+	Prediction -> Real [label="> 0.5"]
+	Prediction -> Fake [label="≤ 0.5"]
+}

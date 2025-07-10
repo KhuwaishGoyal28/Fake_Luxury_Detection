@@ -1,0 +1,378 @@
+Brand,Authentic Product,Original Price (INR),Counterfeit Price (INR),Annual Sales (Original) - Units,Annual Sales (Counterfeit) - Units
+Louis Vuitton,Monogram Handbag,123000,12300,15000,75000
+Gucci,GG Canvas Tote Bag,98400,9840,18000,90000
+Chanel,Classic Flap Bag,410000,41000,10000,50000
+Rolex,Submariner Watch,820000,41000,8000,60000
+Hermès,Birkin Bag,820000,8200,2000,15000
+Prada,Saffiano Leather Tote,205000,20500,12000,70000
+Cartier,Love Bracelet,516000,51600,7000,40000
+Burberry,Trench Coat,164000,16400,14000,80000
+Ray-Ban,Aviator Sunglasses,12300,1230,50000,300000
+Givenchy,Men's Hoodie,90200,7200,9000,45000
+Christian Louboutin,Spiked Loafers,147600,14760,6000,30000
+Levi's,501 Jeans,4920,492,100000,500000
+Balenciaga,GG Canvas Tote Bag,680669,48619,11478,68868
+Ray-Ban,Saffiano Leather Tote,816311,81631,10764,32292
+Bvlgari,Saffiano Leather Tote,665243,47517,11428,57140
+Hermès,Serpenti Watch,511618,63952,12275,49100
+Dior,Triple S Sneakers,196221,16351,10261,71827
+Dior,Spiked Loafers,63292,7911,12845,89915
+Louis Vuitton,Medusa Necklace,460574,57571,13291,93037
+Burberry,Spiked Loafers,744402,67672,11409,79863
+Givenchy,Medusa Necklace,886521,80592,1888,11328
+Burberry,Men's Hoodie,806460,67205,19351,96755
+Hermès,501 Jeans,579226,41373,1087,5435
+Balenciaga,Trench Coat,667800,55650,4659,27954
+Dior,501 Jeans,667446,55620,19746,138222
+Gucci,GG Canvas Tote Bag,137641,9831,17386,69544
+Gucci,Triple S Sneakers,789467,56390,3915,27405
+Hermès,Prestige Face Serum,47021,5877,16182,64728
+Prada,High-End Skincare Set,14287,2857,25151,100604
+Dior,Designer Lipstick,33150,3315,28741,114964
+Chanel,Exclusive Eyeshadow Palette,34746,6949,32373,129492
+Chanel,Premium Foundation,14659,1832,32841,131364
+Gucci,Prestige Face Serum,40887,13629,35799,71598
+Versace,Exclusive Eyeshadow Palette,22474,2247,25314,101256
+Dior,Designer Lipstick,36241,4026,24997,99988
+Hermès,Designer Lipstick,5641,626,20345,61035
+Prada,Designer Lipstick,24126,3446,36645,219870
+Manolo Blahnik,Designer Sneakers,91550,13078,12636,37908
+Christian Louboutin,Luxury Heels,107327,13415,2045,6135
+Christian Louboutin,Exclusive Loafers,41886,3807,3487,10461
+Balenciaga,Designer Sneakers,106341,11815,9399,46995
+Balenciaga,Designer Sneakers,38295,7659,10770,43080
+Balenciaga,Luxury Heels,92759,15459,6642,26568
+Christian Louboutin,Designer Sneakers,109437,12159,8590,51540
+Jimmy Choo,Exclusive Loafers,67855,7539,14814,59256
+Prada,Designer Sneakers,96166,19233,11930,59650
+Balenciaga,Exclusive Loafers,58430,5843,2667,13335
+YSL Beauty,Designer Lipstick,32031,5338,51063,204252
+Guerlain,Prestige Face Serum,25034,3129,7319,36595
+Dior Beauty,Premium Foundation,6481,925,20176,121056
+Lancôme,Luxury Perfume,13664,3416,44596,133788
+Lancôme,High-End Skincare Set,40725,4072,45086,225430
+YSL Beauty,Exclusive Eyeshadow Palette,11746,2349,6295,25180
+MAC,Luxury Mascara,43795,4379,49640,248200
+Estée Lauder,Exclusive Eyeshadow Palette,17950,4487,10140,30420
+Lancôme,Luxury Mascara,21454,7151,52805,105610
+Kiehl's,Luxury Perfume,49301,7043,22031,88124
+Shiseido,Designer Lipstick,35165,3907,6900,13800
+Shiseido,Premium Foundation,22641,5660,30213,120852
+Lancôme,Signature Nail Polish,48544,12136,35396,176980
+Bobbi Brown,Designer Lipstick,25507,5101,24722,123610
+Tom Ford Beauty,Luxury Perfume,23243,4648,42317,169268
+Wilson,Sports Jacket,21662,4332,38645,193225
+Yonex,Hiking Boots,14611,4870,26275,105100
+Mizuno,Sports Jacket,23828,2978,58659,175977
+Skechers,Hiking Boots,23592,3370,47288,236440
+ASICS,Athletic T-Shirt,9224,2306,14367,57468
+Reebok,Hiking Boots,9365,3121,64859,194577
+Nike,Basketball Shoes,19455,6485,16973,67892
+Mizuno,Sports Jacket,12938,1848,19020,95100
+Adidas,Sports Jacket,23607,7869,24053,48106
+Everlast,Athletic T-Shirt,13744,1718,41263,206315
+New Balance,Athletic T-Shirt,7906,1129,40710,122130
+Mizuno,Hiking Boots,7837,1567,35764,143056
+Mizuno,Compression Leggings,4046,578,32407,97221
+Columbia,Training Sneakers,3368,673,25524,76572
+Columbia,Hiking Boots,18184,2597,18954,94770
+Dior Beauty,Basketball Shoes,503723,100744,75110,525770
+MAC,Training Sneakers,764361,69487,75589,453534
+Montblanc,High-End Skincare Set,416569,83313,8881,35524
+Charlotte Tilbury,Luxury Handbag,991563,70825,2425,4850
+Burberry,High-End Skincare Set,170562,28427,81675,163350
+Puma,High-End Necklace,291936,24328,66866,200598
+Tag Heuer,Hiking Boots,726314,90789,97618,585708
+Shiseido,Premium Foundation,157961,31592,95447,668129
+Skechers,Hiking Boots,440912,40082,33352,200112
+Bang & Olufsen,Luxury Earbuds,643783,42918,48924,293544
+Hublot,Prestige Face Serum,568036,63115,47983,143949
+Bang & Olufsen,Exclusive Eyeshadow Palette,782928,260976,45079,360632
+Puma,Basketball Shoes,792325,132054,19070,95350
+Bvlgari,Training Sneakers,418426,83685,95445,381780
+MAC,Exclusive Eyeshadow Palette,475762,52862,22796,159572
+Hermès,Luxury Perfume,657686,50591,47899,95798
+MAC,Luxury Earbuds,541042,108208,53755,430040
+Prada,Training Sneakers,174122,12437,85758,343032
+Hermès,Luxury Handbag,454139,64877,92899,278697
+Shiseido,Signature Nail Polish,195007,15000,65345,130690
+Dior Beauty,Luxury Mascara,967309,107478,73412,440472
+MAC,Running Shoes,342782,26367,54027,270135
+MAC,Running Shoes,18290,2612,69241,276964
+Charlotte Tilbury,Signature Fragrance,40981,2927,55747,390229
+Dior Beauty,Football Boots,222866,14857,15346,30692
+Prada,Luxury Handbag,645390,43026,76259,610072
+Givenchy,High-End Skincare Set,574555,47879,16982,135856
+Patek Philippe,Training Sneakers,45982,4180,24514,147084
+Dolce & Gabbana,Training Sneakers,864859,216214,78955,552685
+ASICS,Luxury Perfume,266360,20489,23091,92364
+Omega,High-End Skincare Set,275973,34496,13491,67455
+Hublot,Running Shoes,722463,60205,85959,687672
+Cartier,Tech Smartwatch,888293,148048,1873,14984
+Tag Heuer,Luxury Watch,252267,63066,72603,508221
+Bose,Basketball Shoes,865712,108214,60851,121702
+Fenty Beauty,Basketball Shoes,765561,191390,31818,127272
+Mizuno,Luxury Mascara,586602,65178,73946,443676
+Columbia,Luxury Watch,82378,13729,56335,338010
+Shiseido,Designer Suit,422308,84461,75455,603640
+ASICS,Designer Belt,673081,84135,6415,12830
+Skechers,Luxury Perfume,985516,70394,34906,69812
+Dolce & Gabbana,Tech Smartwatch,219427,24380,92903,743224
+Rolex,Designer Lipstick,6362,1590,68410,273640
+Fila,Designer Suit,311538,34615,13935,97545
+Sony,Designer Belt,803058,100382,74042,370210
+Estée Lauder,Tech Smartwatch,574020,52183,52655,210620
+Columbia,Signature Fragrance,80153,8015,60973,426811
+Columbia,Training Sneakers,384185,34925,4743,18972
+Hublot,Luxury Handbag,937152,117144,16137,112959
+Salomon,Premium Sunglasses,473203,43018,5781,34686
+Lancôme,Luxury Handbag,888063,148010,20017,100085
+Puma,Luxury Perfume,646512,215504,59632,119264
+Chopard,Luxury Watch,927200,71323,20376,40752
+Reebok,Exclusive Scarf,723947,80438,36039,180195
+Shiseido,High-End Necklace,233360,23336,6747,47229
+Columbia,Training Sneakers,384641,42737,90894,363576
+Rolex,Designer Lipstick,180312,13870,21405,107025
+Mizuno,Sports Jacket,252417,42069,34464,206784
+Skechers,Designer Lipstick,822510,58750,83112,498672
+Hublot,Designer Suit,398959,28497,19573,39146
+Sennheiser,Exclusive Scarf,166356,41589,97434,779472
+Garmin,Basketball Shoes,448236,64033,22746,68238
+Wilson,Training Sneakers,545628,54562,58759,411313
+Bvlgari,Exclusive Scarf,304704,33856,95432,572592
+Chopard,Running Shoes,195668,13976,82135,492810
+Lancôme,Premium Foundation,855796,213949,52053,416424
+Dior Beauty,Designer Lipstick,721995,144399,93928,469640
+La Mer,Athletic T-Shirt,998107,142586,32598,97794
+Fenty Beauty,Designer Belt,172056,34411,57651,230604
+Samsung,Luxury Handbag,89914,12844,71521,429126
+Gucci,Compression Leggings,942747,188549,19259,115554
+Leica,Premium Foundation,58229,7278,55461,221844
+Louis Vuitton,Designer Suit,846276,84627,52578,157734
+Chopard,Luxury Mascara,311683,77920,67365,336825
+Mizuno,High-End Skincare Set,262218,87406,13974,111792
+Hublot,Designer Lipstick,826825,63601,34150,204900
+Hermès,Luxury Perfume,973765,88524,60956,426692
+Burberry,Sports Jacket,859334,286444,82464,164928
+Louis Vuitton,High-End Skincare Set,941924,85629,48362,290172
+Bose,Tech Smartwatch,780636,130106,23957,167699
+ASICS,Signature Nail Polish,256296,28477,34314,240198
+Tag Heuer,Exclusive Scarf,227683,75894,62516,375096
+Chanel,Sports Jacket,378546,29118,99072,396288
+La Mer,Luxury Handbag,400740,66790,23825,119125
+La Mer,High-End Skincare Set,485961,69423,86727,607089
+Garmin,High-End Necklace,846342,282114,25562,102248
+Fendi,Prestige Face Serum,106312,7593,33418,200508
+Armani Beauty,Compression Leggings,954852,106094,46585,232925
+Rolex,Designer Lipstick,122724,8181,49149,393192
+Balenciaga,Compression Leggings,383468,95867,29000,58000
+YSL Beauty,Football Boots,8209,2052,25836,51672
+ASICS,Designer Belt,484447,121111,81811,654488
+Balenciaga,Designer Lipstick,39548,13182,53905,215620
+Dior Beauty,Running Shoes,481715,160571,64147,449029
+Givenchy,Luxury Perfume,853811,142301,21617,172936
+Puma,Designer Suit,202508,18409,48184,240920
+Under Armour,Football Boots,429118,61302,51116,357812
+Dolce & Gabbana,Sports Jacket,866702,72225,37637,112911
+Patek Philippe,Athletic T-Shirt,444072,44407,8124,56868
+Columbia,Tech Smartwatch,977245,108582,74376,371880
+Chanel,Hiking Boots,363671,30305,68738,137476
+Rolex,Compression Leggings,642924,53577,91536,183072
+Guerlain,Designer Belt,295616,19707,76268,381340
+Apple,Luxury Earbuds,729059,91132,37418,261926
+Louis Vuitton,Luxury Mascara,111303,12367,49162,147486
+Bang & Olufsen,Premium Foundation,424975,32690,15196,75980
+Vertu,Signature Fragrance,476244,68034,98466,787728
+Burberry,Tech Smartwatch,682750,136550,74213,371065
+Lancôme,Prestige Face Serum,366445,28188,23953,119765
+Salomon,Compression Leggings,881613,58774,13591,81546
+Bang & Olufsen,High-End Skincare Set,842600,210650,37495,224970
+Fenty Beauty,Luxury Earbuds,78757,15751,90912,454560
+Apple,Athletic T-Shirt,673557,96222,60293,422051
+MAC,Exclusive Scarf,758212,84245,81308,243924
+La Mer,High-End Necklace,305813,25484,95703,478515
+MAC,Signature Nail Polish,918260,131180,75056,150112
+Dolce & Gabbana,Hiking Boots,599467,59946,28053,140265
+Armani Beauty,Signature Nail Polish,607361,46720,11758,23516
+Tom Ford Beauty,High-End Skincare Set,940627,313542,58842,176526
+Shiseido,Premium Sunglasses,635242,48864,87314,174628
+Hublot,Running Shoes,988858,329619,70318,351590
+Patek Philippe,Football Boots,817840,116834,42147,210735
+Puma,High-End Necklace,777811,70710,25990,155940
+Columbia,Designer Lipstick,832446,64034,50927,407416
+Columbia,Prestige Face Serum,402290,33524,52922,317532
+Estée Lauder,Basketball Shoes,460542,92108,87345,174690
+Dolce & Gabbana,Tech Smartwatch,68353,4882,35271,176355
+Puma,Designer Suit,14244,1582,13904,55616
+Kiehl's,Sports Jacket,337393,112464,68504,548032
+Garmin,Athletic T-Shirt,256313,85437,58177,174531
+Estée Lauder,Premium Foundation,929244,103249,77769,466614
+Everlast,Basketball Shoes,984841,70345,45835,229175
+Fendi,Luxury Perfume,306171,102057,42044,84088
+Samsung,Running Shoes,993470,124183,78421,156842
+Charlotte Tilbury,Sports Jacket,321958,22997,42332,296324
+Breitling,Basketball Shoes,233361,19446,21702,130212
+Cartier,Athletic T-Shirt,443317,73886,67457,404742
+Kiehl's,Sports Jacket,611468,50955,19994,59982
+Bobbi Brown,Sports Jacket,468352,33453,66927,535416
+Yonex,Sports Jacket,739749,61645,16180,64720
+YSL Beauty,High-End Skincare Set,480507,80084,10544,52720
+Reebok,Signature Nail Polish,295814,19720,97937,195874
+MAC,Luxury Perfume,300921,60184,88740,443700
+Nike,Luxury Handbag,144809,28961,31698,190188
+Armani Beauty,Training Sneakers,230732,46146,33188,232316
+Samsung,Luxury Handbag,20780,2597,26705,53410
+Hublot,Signature Nail Polish,590140,45395,2677,8031
+ASICS,Designer Suit,518191,64773,19781,138467
+Bose,Premium Foundation,454631,34971,80772,484632
+Balenciaga,Premium Sunglasses,99647,19929,82355,329420
+Fenty Beauty,Designer Lipstick,523829,130957,95485,763880
+Estée Lauder,Luxury Watch,427459,47495,38004,76008
+Balenciaga,High-End Skincare Set,930363,186072,26383,52766
+Garmin,Football Boots,433900,86780,18999,151992
+Vertu,Luxury Handbag,243483,24348,49595,347165
+Tag Heuer,Training Sneakers,880227,125746,39640,198200
+Tom Ford Beauty,Luxury Handbag,391273,48909,94599,283797
+Prada,Premium Sunglasses,310900,28263,53152,106304
+Balenciaga,Luxury Mascara,800137,57152,47045,376360
+Givenchy,Signature Fragrance,982296,327432,26296,52592
+MAC,Tech Smartwatch,5552,370,64961,519688
+Breitling,Sports Jacket,137355,19622,68754,343770
+Cartier,Athletic T-Shirt,693003,57750,44022,176088
+Sony,Sports Jacket,213106,16392,80179,481074
+Armani Beauty,Prestige Face Serum,649029,59002,48181,240905
+Patek Philippe,Designer Belt,249891,24989,87227,610589
+Fendi,Football Boots,467908,51989,78201,625608
+Vertu,Prestige Face Serum,146636,9775,21067,105335
+YSL Beauty,Football Boots,226968,75656,64100,448700
+Fenty Beauty,Designer Belt,951899,237974,39746,198730
+Everlast,Designer Suit,651634,130326,654,5232
+Balenciaga,Luxury Perfume,156742,26123,82565,247695
+Tag Heuer,Tech Smartwatch,978541,195708,27495,164970
+Hublot,Tech Smartwatch,677265,52097,90489,180978
+Vertu,Designer Lipstick,223696,27962,98460,196920
+ASICS,Designer Belt,904480,113060,98056,392224
+Omega,Exclusive Scarf,38002,3454,74473,521311
+Chopard,Signature Nail Polish,143576,15952,28628,171768
+Tag Heuer,Designer Belt,322676,107558,49546,297276
+Tom Ford Beauty,Prestige Face Serum,500211,35729,21830,43660
+Gucci,Luxury Handbag,699268,58272,37537,187685
+Vertu,Training Sneakers,66193,16548,67983,543864
+Bobbi Brown,Signature Fragrance,268757,24432,20920,62760
+Breitling,Luxury Watch,138166,9869,32004,192024
+Tag Heuer,Compression Leggings,678259,113043,77280,386400
+Everlast,Sports Jacket,274927,18328,58560,351360
+New Balance,Designer Suit,527788,52778,62530,500240
+Leica,Running Shoes,326215,36246,94803,568818
+Tag Heuer,Basketball Shoes,804547,114935,86417,432085
+MAC,Premium Foundation,860623,57374,40139,80278
+Guerlain,Signature Fragrance,662931,220977,49913,99826
+Sony,Prestige Face Serum,293842,19589,98077,294231
+Dolce & Gabbana,Training Sneakers,31552,2629,34793,208758
+Rolex,Signature Fragrance,643232,53602,42473,297311
+Salomon,Tech Smartwatch,270286,18019,88081,704648
+Charlotte Tilbury,Basketball Shoes,394213,35837,28728,86184
+Chopard,High-End Necklace,866371,144395,21705,173640
+Leica,Basketball Shoes,298270,49711,12128,36384
+Charlotte Tilbury,Running Shoes,634032,79254,64913,454391
+Mizuno,Premium Sunglasses,803148,53543,38753,116259
+Hublot,Premium Foundation,595317,49609,91858,183716
+YSL Beauty,Running Shoes,993760,248440,30832,215824
+Chanel,Designer Suit,348458,58076,84561,676488
+Bang & Olufsen,Tech Smartwatch,455941,50660,39074,195370
+Under Armour,Tech Smartwatch,33456,5576,49490,296940
+YSL Beauty,Luxury Mascara,717567,143513,6894,13788
+Fila,Sports Jacket,401160,44573,77883,467298
+Clinique,Designer Belt,318400,79600,41637,333096
+New Balance,Luxury Perfume,762090,69280,17041,102246
+Patek Philippe,Sports Jacket,822175,54811,30107,120428
+Louis Vuitton,Luxury Handbag,691123,62829,76698,460188
+Givenchy,Signature Nail Polish,273597,30399,86224,689792
+Tag Heuer,Premium Foundation,767752,54839,19961,159688
+Charlotte Tilbury,Tech Smartwatch,340394,28366,84319,505914
+Samsung,Athletic T-Shirt,331908,41488,25858,77574
+Tiffany & Co.,Luxury Perfume,345916,57652,96715,386860
+Givenchy,Running Shoes,449135,34548,88122,264366
+Burberry,Hiking Boots,432675,36056,37161,74322
+Puma,Compression Leggings,256248,23295,27192,108768
+Chanel,Signature Nail Polish,689059,229686,58973,176919
+MAC,Signature Fragrance,649439,46388,39778,119334
+Columbia,Athletic T-Shirt,246794,61698,56638,169914
+Sony,Luxury Perfume,700546,70054,7880,47280
+Bang & Olufsen,Hiking Boots,735234,49015,2288,6864
+Puma,Designer Suit,80201,5346,54466,435728
+La Mer,Signature Nail Polish,297304,33033,71045,284180
+Givenchy,Prestige Face Serum,786856,56204,65561,458927
+Burberry,Signature Fragrance,303997,37999,9038,36152
+Columbia,Designer Belt,632930,79116,94496,283488
+Puma,Luxury Earbuds,872801,62342,72895,364475
+Charlotte Tilbury,Running Shoes,786964,60535,26900,107600
+Hermès,Tech Smartwatch,598563,49880,70981,283924
+Puma,Prestige Face Serum,58778,11755,47429,332003
+MAC,Athletic T-Shirt,117357,29339,40073,240438
+Bose,Premium Sunglasses,678117,84764,63822,127644
+Chanel,Exclusive Eyeshadow Palette,324113,29464,98481,689367
+Lancôme,Signature Nail Polish,161686,23098,14853,103971
+Clinique,Prestige Face Serum,466740,93348,44546,267276
+YSL Beauty,Compression Leggings,255994,31999,66777,267108
+Clinique,Basketball Shoes,821068,68422,87493,174986
+Chanel,Compression Leggings,959660,73820,54532,381724
+Samsung,Sports Jacket,212345,19304,38202,152808
+Yonex,Luxury Mascara,254314,28257,71670,358350
+Kiehl's,Football Boots,606699,121339,36204,217224
+Omega,Basketball Shoes,155857,11132,38232,76464
+MAC,Luxury Perfume,649749,92821,76210,533470
+Under Armour,Designer Belt,771346,154269,46180,369440
+Tag Heuer,Signature Nail Polish,835129,83512,62384,499072
+Kiehl's,Training Sneakers,836892,119556,69041,483287
+Mizuno,Athletic T-Shirt,626003,104333,75474,150948
+Clinique,Signature Fragrance,944379,236094,32901,131604
+Balenciaga,Compression Leggings,240549,60137,33707,101121
+Bobbi Brown,High-End Necklace,463823,77303,22075,154525
+MAC,Exclusive Eyeshadow Palette,809544,80954,35735,71470
+Armani Beauty,Designer Suit,731102,52221,66342,132684
+ASICS,High-End Skincare Set,591345,84477,79066,553462
+Bobbi Brown,Luxury Perfume,88050,29350,53956,161868
+Dolce & Gabbana,Signature Fragrance,22557,1735,25468,101872
+Lancôme,Signature Fragrance,530990,106198,43189,129567
+Tiffany & Co.,Designer Suit,39147,7829,40617,121851
+Sennheiser,Luxury Watch,84621,5641,22385,111925
+Sony,Football Boots,815665,67972,64747,453229
+Dolce & Gabbana,Designer Lipstick,244391,48878,40283,241698
+Wilson,Sports Jacket,918804,102089,70787,353935
+Apple,Luxury Watch,974060,88550,68007,544056
+Under Armour,High-End Necklace,707514,58959,72576,508032
+ASICS,Training Sneakers,182323,60774,69818,279272
+Columbia,Designer Suit,568925,37928,95243,571458
+Hublot,Luxury Mascara,152271,15227,62382,187146
+Burberry,Luxury Mascara,747652,106807,23949,143694
+Fila,Luxury Handbag,658831,43922,67352,202056
+Dior Beauty,Exclusive Scarf,638928,212976,81052,324208
+Leica,Training Sneakers,748405,106915,43328,129984
+MAC,Running Shoes,318435,28948,64596,322980
+Everlast,Football Boots,851176,65475,36450,109350
+Dolce & Gabbana,Luxury Perfume,840121,76374,69536,486752
+Omega,Athletic T-Shirt,952714,136102,87093,348372
+Fendi,Compression Leggings,462902,77150,84167,505002
+Lancôme,High-End Necklace,447573,31969,9962,79696
+Mizuno,Athletic T-Shirt,316379,39547,18832,112992
+Tom Ford Beauty,Luxury Earbuds,205962,22884,47217,330519
+Breitling,Sports Jacket,692005,46133,49718,248590
+Breitling,Designer Belt,636955,106159,15669,31338
+Estée Lauder,Designer Belt,399097,99774,85488,683904
+Dior Beauty,High-End Skincare Set,174891,11659,48799,292794
+Leica,High-End Skincare Set,807505,89722,15406,30812
+Guerlain,High-End Skincare Set,754942,53924,30104,180624
+Shiseido,Prestige Face Serum,746948,57457,62546,312730
+Columbia,High-End Skincare Set,834971,75906,32484,162420
+Nike,High-End Skincare Set,736711,105244,16230,97380
+Under Armour,Luxury Handbag,15579,5193,49148,344036
+Yonex,Premium Sunglasses,353355,29446,97880,293640
+Hermès,Premium Sunglasses,278321,19880,21651,43302
+Burberry,Compression Leggings,716919,143383,91978,551868
+Adidas,Premium Sunglasses,342377,26336,40223,321784
+Fila,Signature Fragrance,531461,44288,17084,136672
+Hublot,Running Shoes,107851,15407,756,6048
+Hublot,Luxury Perfume,562931,112586,15959,111713
+Mizuno,Designer Lipstick,361838,36183,46325,324275
+Breitling,Exclusive Scarf,763747,152749,15244,76220
